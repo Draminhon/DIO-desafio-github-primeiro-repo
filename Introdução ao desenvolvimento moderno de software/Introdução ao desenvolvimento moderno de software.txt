@@ -1,0 +1,66 @@
+Introdução ao desenvolvimento moderno de software
+------------------------------------------------
+Introdução - Sistemas Desktop x Sistemas Web x Sistemas mobile
+SD - Caindo em desuso, são sistemas para serem instalados no computador
+SW - Sistemas utilizados de qualquer lugar acessando um site
+melhor para sistemas cujo intuito é ser acessivel de qualquer lugar
+SM - sistemas utilizados no celular, podendo ser de plataforma IOS
+ou Android.
+-------------------------------------------------------------------
+UX/UI Designer - 
+UX - User Experience: vai tratar de pesquisa, protótipos, personas e objetivos
+é o profissional que se preocupa com a experiencia do usuario ao utilizar
+o sistema, melhorando a usabilidade, a acessibilidade e até a satisfacao
+proporcionada na iteração.
+UI - User Interface: é o profissional que vai se preocupar com o design
+do sistema, como os botões estão destribuidos etc.
+----------------------------------------------------------------------
+Front End
+Modelo Cliente-Servidor: basicamente, os usuarios são os requerentes
+pois requerem uma informação do servidor e os servidores são os que forcem
+o serviço 
+-----------------------------------------------------------------------
+Framework
+basicamente é um facilitador
+ele traz diversas soluções já pré-definidas, que descomplicam o trabalho do profissional
+de desenvolvimento de sistemas etc
+-----------------------------------------------------------------------
+Back End
+basicamente ele faz a ponte entre os dados que vem do navegador rumo
+ao banco de dados e vice-versa, sempre aplicando as devidas regras
+de negócio, validações e garantias em um ambiente onde usuario
+nao tenha acesso e possa manipular algo
+ API(interface de programação de aplicativos) permite que dois aplicativos
+conversem entre si, ela faz a ponte para a comunicação de diferentes coisas
+no sentido do curso, uma API no modelo cliente-servidos vai possibilitar
+a comunicação e a obtenção da resposta entre o sistema e o banco de dados.
+-------------------------------------------------------------------------- 
+QA (Quality Assurance)
+É um conunto de ações que as empresas realizam com o objetivo de entregar
+aos consumidores um produto ou serviço com alta qualidade, o profissional
+de QA verifica se os padrões de qualidade estão sendo atendidos e se todos
+os requisitos mínimos esperados no produto serão entregues, ou seja
+ele vai veririficar se o sistema/app está funcionando como esperado
+e entregando uma aplicação de qualdidade.
+-----------------------------------------------------------------------
+Infraestrutura
+São profissionais que trabalham com servidores (data centers)
+Segurança da TI (logica e fisica)
+Mão de obra especializada(software e hardware)
+Infraestrutura local
+------------------------------------------------------------------------
+Cloud (núvem pública)
+Os sistemas em nuvem são sistemas de armazamentamento de dados disponibilizados via internet
+em vez de servidoes físicos tradicionais, as empresas pagam outras empresas
+especializadas em nuvem para armazernar seus dados lá, baseando seus sistemas 
+em núvem ao invés de servidores fisicos
+-Profissional de Cloud Computing: é responsável pela infraestrutura da nuvem oferecida aos clientes
+ele desenha os sistemas, escolhe as tecnologias que serão utilizdas e cuida de tudo
+ oq foi construido
+----------------------------------------------------------------------
+Mobile
+Android - android studio (java ou kotlin), precisa ter um pc
+IOS - EXCCODE (SWIFT) precisa ter um mc pro ou algo da apple pra gerar
+para poder publicar na loja da apple
+desenvolvimento hibrido(web) - consegue gerar codigos para as duas plataformas(ionic, flutter, react native)
+
